@@ -1,0 +1,14 @@
+{
+  "author": "David Christie <davidchristie.nz@gmail.com>",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "name": "contact-form-api",
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": "git@github.com:davidchristie/contact-form-api.git",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "version": "1.0.0"
+}
