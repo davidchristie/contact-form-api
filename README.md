@@ -13,3 +13,9 @@ PASSWORD=<password>
 NOTIFIED_EMAIL=<notified_email>
 SUBJECT=<subject>
 ```
+
+Build a docker image.
+
+```shell
+$ docker build .
+```
